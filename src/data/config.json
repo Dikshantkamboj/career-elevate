@@ -1,0 +1,81 @@
+{
+  "brand": {
+    "name": "CAREER ELEVATE",
+    "subtitle": "Professional Career Services",
+    "contact": {
+      "phoneNumbers": ["8077339366", "7017675120"],
+      "whatsapp": ["8077339366", "7017675120"],
+      "email": "info@careerelevate.com",
+      "hours": "Mon-Sun: 8 AM - 10 PM",
+      "address": "Delhi, India"
+    }
+  },
+  "services": [
+    {
+      "id": "01",
+      "title": "CV Building & Revamp",
+      "description": "Make your resume stand out for recruiters.",
+      "features": ["Basic", "Professional", "Executive"],
+      "expressDelivery": "Delivery within 12-18 hours",
+      "price": "₹360",
+      "icon": "document"
+    },
+    {
+      "id": "02",
+      "title": "Naukri Profile Setup",
+      "description": "Get discovered by top recruiters seamlessly.",
+      "features": ["Basic: Setting", "Professional & Executive Insights"],
+      "expressDelivery": "Delivery within 12-16 hours",
+      "price": "₹300",
+      "icon": "briefcase"
+    },
+    {
+      "id": "03",
+      "title": "LinkedIn Profile Optimization",
+      "description": "Build a powerful online presence to grow your network.",
+      "features": ["Starter", "Professional", "Executive"],
+      "expressDelivery": "Delivery within 72-98 hours",
+      "price": "₹500",
+      "icon": "linkedin"
+    },
+    {
+      "id": "04",
+      "title": "Experience Professional Guidance",
+      "description": "Get personalized guidance to accelerate your career.",
+      "features": ["One-to-one sessions", "Resume, interview & career support", "Weekend classes/sessions"],
+      "expressDelivery": null,
+      "price": "Consult",
+      "icon": "compass"
+    },
+    {
+      "id": "05",
+      "title": "Experience Professional Mentorship",
+      "description": "Get paired with an experienced professional.",
+      "features": ["Goal setting", "Industry insights", "Continuous support"],
+      "expressDelivery": null,
+      "price": "Consult",
+      "icon": "handshake"
+    }
+  ],
+  "companies": {
+    "itAndConsulting": [
+      { "name": "Accenture", "domain": "accenture.com" },
+      { "name": "Deloitte", "domain": "deloitte.com" },
+      { "name": "Infosys", "domain": "infosys.com" },
+      { "name": "Saksoft", "domain": "saksoft.com" },
+      { "name": "Citi", "domain": "citigroup.com" },
+      { "name": "Wipro", "domain": "wipro.com" },
+      { "name": "TCS", "domain": "tcs.com" },
+      { "name": "Capgemini", "domain": "capgemini.com" }
+    ],
+    "healthcareAndPharma": [
+      { "name": "Pfizer", "domain": "pfizer.com" },
+      { "name": "Dr.Reddy's", "domain": "drreddys.com" },
+      { "name": "Novartis", "domain": "novartis.com" },
+      { "name": "Apollo Hospitals", "domain": "apollohospitals.com" },
+      { "name": "Cipla", "domain": "cipla.com" },
+      { "name": "Medanta", "domain": "medanta.org" },
+      { "name": "IQVIA", "domain": "iqvia.com" }
+    ]
+  }
+}
